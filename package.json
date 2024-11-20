@@ -1,0 +1,20 @@
+{
+  "name": "Nodejs_by_helloworld",
+  "version": "1.0.0",
+  "description": "its a nodejs tutorial by hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandesh Kadam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
